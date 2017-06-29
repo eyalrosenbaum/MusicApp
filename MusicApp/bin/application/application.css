@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment
+ * until you have at least create one rule which uses -fx-Property
+ */
+ #btn1{
+ 	-fx-background-image:url('1.png');
+ 	-fx-background-repeat: no-repeat;
+ }
